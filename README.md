@@ -8,7 +8,7 @@
 
 群昵称: 25 Claran
 
-个人博客：[Claran's blog](claran-blog.work)
+个人博客：[Claran's blog](http://www.claran-blog.work)
 
 学习进度周期性同步博客
 
